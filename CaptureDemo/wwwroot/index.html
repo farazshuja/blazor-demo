@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>CaptureDemo</title>
+    <base href="/" />
+    <!-- Theme Config Js -->
+    <script src="js/hyper-config.js"></script>
+    <!-- Icons css -->
+    <link href="css/icons.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- App css -->
+    <link href="css/app-modern.min.css" rel="stylesheet" type="text/css" id="app-style" />
+
+    <link href="css/app.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="CaptureDemo.styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="app">
+        <div class="loader-page">
+            <svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#a1a1a1">
+                <g fill="none" fill-rule="evenodd">
+                    <g transform="translate(1 1)" stroke-width="2">
+                        <circle stroke-opacity=".5" cx="18" cy="18" r="18" />
+                        <path d="M36 18c0-9.94-8.06-18-18-18">
+                            <animateTransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18"
+                                dur="1s" repeatCount="indefinite" />
+                        </path>
+                    </g>
+                </g>
+            </svg>
+        </div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+</body>
+
+</html>

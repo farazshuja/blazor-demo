@@ -1,0 +1,31 @@
+/* /Shared/MainLayout.razor.rz.scp.css */
+.main-layout[b-u6a25tfkld] {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 60px 1fr 45px;
+}
+
+.main-layout main[b-u6a25tfkld] {
+    overflow: auto;
+}
+
+.main-layout footer[b-u6a25tfkld] {
+    background: var(--ct-blue);
+    color: white;
+    display: flex;
+    gap: 10px;
+    justify-content: start;
+    align-items: center;
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.nav-item[b-ugsfi5bogz] {
+    font-size: 0.9375rem;
+}
+
+.nav-link[b-ugsfi5bogz] {
+    color: var(--ct-black) !important;
+}
+
+.nav-link:hover[b-ugsfi5bogz] {
+    color: var(--ct-primary) !important;
+}

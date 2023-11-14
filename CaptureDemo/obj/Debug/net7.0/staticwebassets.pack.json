@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\obj\\Debug\\net7.0\\build-gz\\NS8Eiich.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CaptureDemo.styles.css",
+      "PackagePath": "staticwebassets\\CaptureDemo.styles.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\images\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\intro.mp4",
+      "PackagePath": "staticwebassets\\assets\\intro.mp4"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\app-modern.min.css",
+      "PackagePath": "staticwebassets\\css\\app-modern.min.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Medium.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Medium.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Medium.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Medium.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Medium.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Medium.woff2"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.eot",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.svg",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.woff",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\images\\logo-small-light.svg",
+      "PackagePath": "staticwebassets\\images\\logo-small-light.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\images\\logo-small.svg",
+      "PackagePath": "staticwebassets\\images\\logo-small.svg"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\js\\hyper-config.js",
+      "PackagePath": "staticwebassets\\js\\hyper-config.js"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\logo-small.ico",
+      "PackagePath": "staticwebassets\\logo-small.ico"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CaptureDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CaptureDemo.props",
+      "PackagePath": "build\\CaptureDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CaptureDemo.props",
+      "PackagePath": "buildMultiTargeting\\CaptureDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CaptureDemo.props",
+      "PackagePath": "buildTransitive\\CaptureDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

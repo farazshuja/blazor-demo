@@ -1,0 +1,39 @@
+@if (!String.IsNullOrEmpty(VideoLink))
+{
+    <div class="show modal fade" style="display: block;" tabindex="-1" role="dialog" aria-labelledby="standard-modalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-lg position-relative">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <button type="button" class="btn-close btn-close-tr" data-bs-dismiss="modal" aria-hidden="true"
+                        @onclick="Close"></button>
+                    <h5>🎉 Extension installed successfully!</h5>
+                    <p>Pin the extension and try to record this page to have some fun! </p>
+
+                    <video controls style="width: 100%;">
+                        <source src="@VideoLink" type="video/mp4" />
+                    </video>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+
+    <!-- /.modal -->
+    <div class="modal-backdrop fade show"></div>
+}
+
+
+@code
+{
+    [Parameter]
+    public string VideoLink { get; set; } = String.Empty;
+
+    private void Close()
+    {
+        VideoLink = String.Empty;
+        OnClosed.InvokeAsync(true);
+    }
+
+    [Parameter]
+    public EventCallback<bool> OnClosed { get; set; }
+}

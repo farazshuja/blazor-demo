@@ -1,0 +1,11 @@
+.nav-item[b-ugsfi5bogz] {
+    font-size: 0.9375rem;
+}
+
+.nav-link[b-ugsfi5bogz] {
+    color: var(--ct-black) !important;
+}
+
+.nav-link:hover[b-ugsfi5bogz] {
+    color: var(--ct-primary) !important;
+}
