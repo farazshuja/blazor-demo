@@ -826,3 +826,4 @@ D:\andagon\capture-blazor-demo-page\CaptureDemo\CaptureDemo\obj\Debug\net7.0\Cap
 D:\andagon\capture-blazor-demo-page\CaptureDemo\CaptureDemo\obj\Debug\net7.0\refint\CaptureDemo.dll
 D:\andagon\capture-blazor-demo-page\CaptureDemo\CaptureDemo\obj\Debug\net7.0\CaptureDemo.pdb
 D:\andagon\capture-blazor-demo-page\CaptureDemo\CaptureDemo\obj\Debug\net7.0\ref\CaptureDemo.dll
+D:\andagon\capture-blazor-demo-page\CaptureDemo\CaptureDemo\bin\Debug\net7.0\staticwebapp.config.json

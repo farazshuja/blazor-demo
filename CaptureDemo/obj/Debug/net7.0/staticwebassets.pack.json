@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets\\assets\\intro.mp4"
     },
     {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\js\\hyper-config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hyper-config.js"
+    },
+    {
+      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.min.js"
+    },
+    {
       "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\css\\app-modern.min.css",
       "PackagePath": "staticwebassets\\css\\app-modern.min.css"
     },
@@ -267,10 +279,6 @@
     {
       "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
-    },
-    {
-      "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\js\\hyper-config.js",
-      "PackagePath": "staticwebassets\\js\\hyper-config.js"
     },
     {
       "Id": "D:\\andagon\\capture-blazor-demo-page\\CaptureDemo\\CaptureDemo\\wwwroot\\logo-small.ico",
