@@ -119,13 +119,24 @@
 
     private void AddToCart()
     {
-        JSRuntime.InvokeVoidAsync("console.error", "Hello Blazor");
+        JSRuntime.InvokeVoidAsync("console.info", "Product added to cart and page redirected to show cart");
+        JSRuntime.InvokeVoidAsync("console.error", "Error: Something went wrong");
         NavManager.NavigateTo("/cart");
     }
 
     private void SelectProductImage(int imgIndex)
     {
         _activeImage = $"assets/images/products/product-{imgIndex}.jpg";
+
+        if (imgIndex == 5)
+        {
+            JSRuntime.InvokeVoidAsync("console.error", "Product image could not be found");
+        }
+
+        if (imgIndex == 6)
+        {
+            JSRuntime.InvokeVoidAsync("console.warn", "Product image loads but is broken");
+        }
     }
 
     private void OnModalClosed() {
